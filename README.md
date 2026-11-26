@@ -44,8 +44,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ## OUTPUT
 
 <img width="1912" height="982" alt="Screenshot 2026-11-25 151211" src="https://github.com/user-attachments/assets/e634ff75-624c-4f50-b1e5-e2e8801a939f" />
+<img width="1917" height="1023" alt="Screenshot 2026-11-26 150608" src="https://github.com/user-attachments/assets/bad9ad72-f6e2-4e41-affd-97d816022ca2" />
 
-<img width="1911" height="995" alt="Screenshot 2026-11-25 151227" src="https://github.com/user-attachments/assets/9fd4c197-0018-4852-bb22-3c075c23e6c4" />
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
